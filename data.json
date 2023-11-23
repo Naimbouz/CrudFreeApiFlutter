@@ -1,0 +1,36 @@
+  {
+    "civilite": [
+      {
+        "id": 1,
+        "monsieur": "monsieur",
+        "madame": "madame"
+      }
+    ],
+    "profile": [
+      {
+        "inputType": "text",
+        "nom": "",
+        "prenom": ""
+      }
+    ],
+    "matieres": [
+      {
+        "java": false,
+        "algo": false,
+        "math": false
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com"
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "email": "jane.doe@example.com"
+      }
+
+    ]
+  }
